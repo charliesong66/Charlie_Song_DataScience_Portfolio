@@ -14,6 +14,7 @@ The two most important statistics on winning/losing are:
 * Experience difference
 
 
+![alt text](https://github.com/charliesong66/charlie-portfolio/blob/master/images/lol%20factor1.png)
 
 |   | feature |	eigenvalue |
 | --- | --- | --- |
