@@ -14,7 +14,7 @@ The two most important statistics on winning/losing are:
 * Experience difference
 
 ### Key features given by Random Forest:
-![alt text](https://github.com/charliesong66/charlie-portfolio/blob/master/images/lol%20factor1.png)
+![alt text](https://raw.githubusercontent.com/charliesong66/charlie-portfolio/master/images/lol%20factor1.png)
 
 ### Key features given by the first component in PCA:
 
