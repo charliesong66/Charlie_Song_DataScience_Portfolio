@@ -32,3 +32,17 @@ The two most important statistics on winning/losing are:
 |37	| redGoldPerMin	| 0.223054 |
 |12	| blueTotalExperience	| 0.213231 |
 |31	| redTotalExperience	| 0.212999 |
+
+
+# [COVID-19 Visualisation and Analysis](https://www.kaggle.com/yuankunsong/covid-19-visualisation-analysis)
+
+### I have made some visualisation on COVID-19 data, this includes views by Countries, by Continents, daily increases, daily new cases etc. The second part of this project has more in depth exploration on the situation in the U.S. by different states.
+
+### Some of the plots are below:
+
+![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid1.png)
+![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid2.png)
+![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid3.png)
+![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid4.png)
+![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid5.png)
+
