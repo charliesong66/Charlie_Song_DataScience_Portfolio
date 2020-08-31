@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+[# Deciding Factors in League of Legends](https://github.com/charliesong66/Deciding-Factors-in-League-of-Legends/blob/master/deciding-factors-in-league-of-legends.ipynb)
 
-You can use the [editor on GitHub](https://github.com/charliesong66/charlie-portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### This notebooks tries to find out what are the key reasons a team wins/loses, and at the same time build a model predicting game results only using data from the first 10 mins. The data consists of SOLO QUEUE games at high ELO (DIAMOND I to MASTER)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The algorithms used are:
+* Random Forest
+* Logistic Regression
+* Principal Compnent Analysis (PCA)
+
+### Summary of findings:
+
+The two most important statistics on winning/losing are:
+* Gold difference
+* Experience difference
 
 ### Markdown
 
