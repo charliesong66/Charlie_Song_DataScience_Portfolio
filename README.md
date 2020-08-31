@@ -16,7 +16,7 @@ The two most important statistics on winning/losing are:
 
 
 |   | feature |	eigenvalue |
-| --- | --- |
+| --- | --- | --- |
 |15 |	blueGoldDiff | 	0.277441 |
 |34	| redGoldDiff	| 0.277441 |
 |35	| redExperienceDiff	| 0.266243 |
