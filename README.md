@@ -13,34 +13,17 @@ The two most important statistics on winning/losing are:
 * Gold difference
 * Experience difference
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/charliesong66/charlie-portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+|   | feature |	eigenvalue |
+| --- | --- |
+|15 |	blueGoldDiff | 	0.277441 |
+|34	| redGoldDiff	| 0.277441 |
+|35	| redExperienceDiff	| 0.266243 |
+|16	| blueExperienceDiff	| 0.266243 |
+|18	| blueGoldPerMin	| 0.226717 |
+|10	| blueTotalGold	| 0.226717 |
+|29	| redTotalGold	| 0.223054 |
+|37	| redGoldPerMin	| 0.223054 |
+|12	| blueTotalExperience	| 0.213231 |
+|31	| redTotalExperience	| 0.212999 |
