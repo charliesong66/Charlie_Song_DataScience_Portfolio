@@ -36,6 +36,21 @@ The two most important statistics on winning/losing are:
 <br>
 <br>
 
+# [Credit Card Default - Analysis and Prediction](https://github.com/charliesong66/Predicting-Credit-Card-Default-Using-XGBoost/blob/master/predicting-credit-card-default-using-xgboost.ipynb)
+[Link to this project on Kaggle](https://www.kaggle.com/yuankunsong/predicting-credit-card-default-auc-0-793)
+
+## This project aims to analyze credit card default rates. The dataset is from information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
+
+### The method used was XGBoost, with extensive hyperparameter tuning.
+
+### Key findings: the most important factors affecting credit card repayment in a given month are:
+* Statement amount in previous month
+* Repayment status in previous month
+* Amount of payment in previous month
+
+<br>
+<br>
+
 # [COVID-19 Visualisation and Analysis](https://www.kaggle.com/yuankunsong/covid-19-visualisation-analysis)
 
 ## I have made some visualisation on COVID-19 data, this includes views by Countries, by Continents, daily increases, daily new cases etc. The second part of this project has more in depth exploration on the situation in the U.S. by different states.
