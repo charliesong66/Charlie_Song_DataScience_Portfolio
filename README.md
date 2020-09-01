@@ -33,6 +33,8 @@ The two most important statistics on winning/losing are:
 |12	| blueTotalExperience	| 0.213231 |
 |31	| redTotalExperience	| 0.212999 |
 
+<br>
+<br>
 
 # [COVID-19 Visualisation and Analysis](https://www.kaggle.com/yuankunsong/covid-19-visualisation-analysis)
 
