@@ -42,7 +42,7 @@ The two most important statistics on winning/losing are:
 
 ### Some of the plots are below:
 
-![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid1.png)
+![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid1.png?raw=true)
 ![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid2.png)
 ![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid3.png)
 ![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid4.png)
