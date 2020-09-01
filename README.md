@@ -2,7 +2,7 @@
 
 [Link to this project on Kaggle](https://www.kaggle.com/yuankunsong/deciding-factors-in-league-of-legends)
 
-### In this project I tried to find out what are the key reasons a team wins/loses, and at the same time build a model predicting game results only using data from the first 10 mins. The data consists of SOLO QUEUE games at high ELO (DIAMOND I to MASTER)
+## In this project I tried to find out what are the key reasons a team wins/loses, and at the same time build a model predicting game results only using data from the first 10 mins. The data consists of SOLO QUEUE games at high ELO (DIAMOND I to MASTER)
 
 ### The algorithms used are:
 * Random Forest
@@ -38,7 +38,7 @@ The two most important statistics on winning/losing are:
 
 # [COVID-19 Visualisation and Analysis](https://www.kaggle.com/yuankunsong/covid-19-visualisation-analysis)
 
-### I have made some visualisation on COVID-19 data, this includes views by Countries, by Continents, daily increases, daily new cases etc. The second part of this project has more in depth exploration on the situation in the U.S. by different states.
+## I have made some visualisation on COVID-19 data, this includes views by Countries, by Continents, daily increases, daily new cases etc. The second part of this project has more in depth exploration on the situation in the U.S. by different states.
 
 ### Some of the plots are below:
 
