@@ -16,7 +16,7 @@ The two most important statistics on winning/losing are:
 * Experience difference
 
 ### Key features given by Random Forest:
-![alt text](https://raw.githubusercontent.com/charliesong66/charlie-portfolio/master/images/lol%20factor1.png)
+![alt text](https://raw.githubusercontent.com/charliesong66/charlie-portfolio/master/images/lol%20factor1.png?raw=true)
 
 ### Key features given by the first component in PCA:
 
@@ -43,8 +43,8 @@ The two most important statistics on winning/losing are:
 ### Some of the plots are below:
 
 ![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid1.png?raw=true)
-![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid2.png)
-![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid3.png)
-![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid4.png)
-![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid5.png)
+![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid2.png?raw=true)
+![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid3.png?raw=true)
+![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid4.png?raw=true)
+![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/covid5.png?raw=true)
 
