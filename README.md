@@ -48,6 +48,12 @@ The two most important statistics on winning/losing are:
 * Repayment status in previous month
 * Amount of payment in previous month
 
+### Feature importance given by the XGBoost Model:
+![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/creditcard1.png?raw=true)
+
+### Building a model using all data but the current month, then validate the model by making prediction on that month acheived an AUC of 0.793. Below is the confusion matrix:
+![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/creditcard2.png?raw=true)
+
 <br>
 <br>
 
