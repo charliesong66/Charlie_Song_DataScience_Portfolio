@@ -1,3 +1,13 @@
+# [FIFA19 Player Value Modeling and Predictions](https://github.com/charliesong66/FIFA-19-Player-Value/blob/master/fifa19-predicting-the-value-of-players.ipynb)
+[Link to this project on Kaggle](https://www.kaggle.com/yuankunsong/fifa19-predicting-the-value-of-players)
+
+![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/fifa19%20player%20value.png?raw=true)
+
+![alt text](https://github.com/charliesong66/Charlie_Song_DataScience_Portfolio/blob/master/images/fifa19%20feature%20importance.png?raw=true)
+
+<br>
+<br>
+
 # [Deciding Factors in League of Legends](https://github.com/charliesong66/Deciding-Factors-in-League-of-Legends/blob/master/deciding-factors-in-league-of-legends.ipynb)
 
 [Link to this project on Kaggle](https://www.kaggle.com/yuankunsong/deciding-factors-in-league-of-legends)
