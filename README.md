@@ -1,8 +1,3 @@
-# Contact
-### charlie.song66@gmail.com
-<br>
-<br>
-
 # [Deciding Factors in League of Legends](https://github.com/charliesong66/Deciding-Factors-in-League-of-Legends/blob/master/deciding-factors-in-league-of-legends.ipynb)
 
 [Link to this project on Kaggle](https://www.kaggle.com/yuankunsong/deciding-factors-in-league-of-legends)
